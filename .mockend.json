@@ -1,6 +1,5 @@
 {
   "news": {
-    "id" : "int",
     "title": "string",
     "description": "string",
     "views": "int",
@@ -9,7 +8,6 @@
     "comments": "Comment[]"
   },
   "photos": {
-    "id" : "int",
     "title" : "string",
     "description" : "string",
     "image" : "string",
