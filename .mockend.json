@@ -1,5 +1,5 @@
 {
-  "news": {
+  "News": {
     "title": "string",
     "description": "string",
     "views": "int",
