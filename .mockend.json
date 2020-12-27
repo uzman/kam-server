@@ -5,5 +5,11 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Photos": {
+    "title" : "string",
+    "description" : "string",
+    "image" : "string",
+    "views" : "int"
   }
 }
